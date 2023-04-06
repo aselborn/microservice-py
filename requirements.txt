@@ -1,0 +1,9 @@
+# API
+fastapi
+uvicorn
+websockets
+jinja2
+
+# core
+pylint
+black
